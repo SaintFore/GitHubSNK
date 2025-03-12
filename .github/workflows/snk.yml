@@ -22,6 +22,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=70A4FC&color_dots=#1A1B27,#30276F,#4638AA,#665BD9,#70A4FC
+            dist/ocean.gif?color_snake=F67280&color_dots=#355C7D,#6C5B7B,#C06C84,#E06D83,#F67280
       
       # 推送到输出分支
       - uses: crazy-max/ghaction-github-pages@v3.1.0
